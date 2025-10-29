@@ -23,12 +23,12 @@ Relevant links:
 ## Local Development
 
 ### Clone the Repository
-
+If this is your first time working with open source projects, follow the given steps start your journey:
 ```bash
 git clone https://github.com/supabase/supabase-py.git
 cd supabase-py
 ```
-
+This command creates an editable copy of the repo. Most repositories can be edited locally by cloning but for changes to reflect in the main repo, you will have to make a pull request.
 ### Dependencies
 
 This repository relies on the following dependencies for development: 
